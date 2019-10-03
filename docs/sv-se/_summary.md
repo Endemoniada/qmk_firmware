@@ -17,15 +17,15 @@
 * [Breaking Changes](breaking_changes.md)
   * [2019 Aug 30](ChangeLog/20190830.md)
 
-* [FAQ](faq.md)
-  * [General FAQ](faq_general.md)
-  * [Build/Compile QMK](faq_build.md)
-  * [Debugging/Troubleshooting QMK](faq_debug.md)
+* [Vanliga Frågor](faq.md)
+  * [Allmänna frågor](faq_general.md)
+  * [Bygga/Kompilera QMK](faq_build.md)
+  * [Debugging/Felsökning QMK](faq_debug.md)
   * [Keymap](faq_keymap.md)
-  * [Driver Installation with Zadig](driver_installation_zadig.md)
+  * [Drivrutin-installation med Zadig](driver_installation_zadig.md)
 
-* Detailed Guides
-  * [Install Build Tools](getting_started_build_tools.md)
+* Detaljerade guider
+  * [Installa byggverktyg](getting_started_build_tools.md)
   * [Vagrant Guide](getting_started_vagrant.md)
   * [Build/Compile Instructions](getting_started_make_guide.md)
   * [Flashing Firmware](flashing.md)
